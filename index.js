@@ -11,7 +11,8 @@ const {
   cyan,
   magenta,
   lightRed,
-  stripColors
+  stripColors,
+  lightBlue
 } = require('kolorist')
 
 const cwd = process.cwd()
@@ -25,7 +26,8 @@ const TEMPLATES = [
   magenta('preact'),
   magenta('preact-ts'),
   lightRed('lit-element'),
-  lightRed('lit-element-ts')
+  lightRed('lit-element-ts'),
+  lightBlue('vue2-microapp')
 ]
 
 const renameFiles = {
