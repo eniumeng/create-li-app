@@ -1,6 +1,6 @@
 # create-li-app
 
-## Scaffolding Your Li Project with Vite
+## Scaffolding Your Li Project with Vite Or Webpack
 
 > **Compatibility Note:**
 > Vite requires [Node.js](https://nodejs.org/en/) version >=12.0.0.
