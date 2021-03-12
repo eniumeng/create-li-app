@@ -1,7 +1,7 @@
 const packageName = require('./package').name
 
 module.exports = {
-  publicPath: '/vue-app',
+  // publicPath: '/vue-app',
   devServer: {
     headers: {
       'Access-Control-Allow-Origin': '*'
